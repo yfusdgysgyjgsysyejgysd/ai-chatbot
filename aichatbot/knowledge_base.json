@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello i am chatbot"
+    },
+    {
+      "question": "can you tell me a joke",
+      "answer": "your life"
+    },
+    {
+      "question": "whats your name",
+      "answer": "i am chatbot and i am esmart if u teach me"
+    },
+    {
+      "question": "what is 2+2",
+      "answer": "4 is de answer"
+    },
+    {
+      "question": "wus 100 + 200",
+      "answer": "300"
+    },
+    {
+      "question": "where are you from",
+      "answer": "im from bangladesh bc i was created there"
+    },
+    {
+      "question": "what is the worst company ever",
+      "answer": "apple"
+    }
+  ]
+}
